@@ -1,3 +1,2 @@
 Hello, world
 Sat Mar 25 13:03:45 CDT 2017
-third stage and commit
